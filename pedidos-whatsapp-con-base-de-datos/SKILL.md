@@ -69,6 +69,8 @@ Solo responde a chats registrados.
 ### 3.5 Tareas programadas (en la base)
 - **Vencer pedidos sin pago:** cada 15 minutos, pedidos pendientes de más de 48 horas pasan a **cancelado**, con motivo registrado.
 - **Limpiar intentos de envío:** una vez al día se borran registros viejos del anti-spam.
+- **Recordatorio de pedidos pendientes:** cada mañana, Telegram muestra un mensaje por cada pedido sin pagar, con el botón 💰 Pagado, y avisa si faltan menos de 24 horas para la cancelación automática.
+- **Recordatorio de cumpleaños:** cada mañana, Telegram avisa quién cumple años hoy, con un botón que abre WhatsApp con el saludo escrito. Solo incluye clientes que autorizaron datos.
 
 ### 3.6 Función de Shopify (si aplica)
 - Recibe los webhooks `orders/create` y `orders/paid`.
@@ -116,8 +118,8 @@ Solo responde a chats registrados.
 - El sistema no calcula tiempos de entrega. Si la página promete un tiempo, tiene que ser uno que el dueño cumpla. Si no, mejor no prometerlo.
 
 ### 5.4 El dueño tarda en confirmar pagos
-- El aviso de alerta solo sale cuando se crea el pedido. **No hay recordatorio de pendientes.** Es la mejora más útil que suele faltar: un recordatorio periódico en Telegram con los pedidos pendientes.
-- Lo que sí hace el sistema: los vence a las 48 horas, así que nunca quedan para siempre.
+- Cada mañana el sistema manda por Telegram los pedidos que siguen sin pagar, cada uno con su botón 💰 Pagado. Así no se cancela por olvido un pedido que ya se pagó.
+- Si pasan 48 horas sin pago, el pedido se cancela solo, así que nunca quedan pendientes para siempre.
 
 ### 5.5 Garantía que tarda
 - Queda abierta y aparece en `/garantias` con los días transcurridos.
@@ -176,6 +178,7 @@ Solo responde a chats registrados.
 ### Paso 7. Vencimiento y tareas programadas
 - Tarea cada 15 minutos que cancela pedidos pendientes de más de 48 horas.
 - Tarea diaria que limpia intentos viejos.
+- Recordatorios diarios por Telegram: pedidos pendientes de pago y cumpleaños del día.
 
 ### Paso 8. Garantías
 - Tabla ligada al pedido, comandos, botón de resuelta, alerta por plazo.
