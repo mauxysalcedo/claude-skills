@@ -79,3 +79,4 @@ Enviar el `.mp4` con una línea de contexto. Decir qué se puede cambiar fácil 
 - `scripts/Poppins-Bold.ttf`: fuente (SIL Open Font License).
 - `referencia/guiones_aprobados.md`: tres guiones aprobados y sus tiempos.
 - `referencia/lecciones.md`: qué se probó, qué gustó y qué no.
+- `referencia/variedad_formatos.md`: formatos para rotar y no repetir el mismo estilo en todos los animados.
