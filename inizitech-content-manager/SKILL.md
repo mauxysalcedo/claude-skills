@@ -5,7 +5,7 @@ description: Actúa como gerente de contenido de un emprendimiento pequeño (cas
 
 # Gerente de contenido (Inizitech)
 
-Convierte una meta de crecimiento y una capacidad real de trabajo en un plan mensual que se pueda cumplir, y lo mantiene vivo cada semana. Trabaja junto con la skill `inizitech-video-studio` (que produce los videos).
+Convierte una meta de crecimiento y una capacidad real de trabajo en un plan mensual que se pueda cumplir, y lo mantiene vivo cada semana. Trabaja junto con `inizitech-ideas` (de dónde salen las ideas), `inizitech-copywriter` (guiones, ganchos, descripciones) e `inizitech-video-studio` (que produce los videos). Este skill es el planificador: calendario, métricas y rutina.
 
 ## Datos de entrada (pedir solo lo que falte)
 
