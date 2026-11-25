@@ -25,12 +25,12 @@ Si llega un screen recording con voz, extraer el audio con ffmpeg y transcribirl
    - referencia de donde sale y qué se toma (estructura y ritmo, no contenido);
    - por qué funcionaría para Inizitech;
    - qué hace falta para producirla (fotos, clips, datos en [corchetes]).
-4. **Filtro de marca** (obligatorio, ver `inizitech-video-studio/SKILL.md`): sin nombres de marca ni "original" (los productos son réplicas 1:1), sin promesas de calidad o seguridad no demostrables, Sistecrédito solo "sujeto a aprobación y condiciones", sin copiar frases, nombres ni identidad de otra cuenta.
+4. **Filtro de marca** (obligatorio): sin nombres de marca ni "original" (los productos son réplicas 1:1), sin promesas de calidad o seguridad no demostrables, Sistecrédito solo "sujeto a aprobación y condiciones", sin copiar frases, nombres ni identidad de otra cuenta.
 5. **Priorizar.** Marcar las 3 ideas que más conviene grabar o animar primero y por qué (ventas, esfuerzo bajo, encaja con el calendario).
-6. **Entregar** como tabla corta en el chat. Solo si la dueña lo pide, guardar en documento. Anotar las cuentas analizadas en `referencia/referentes.md` (repositorio) o decirle a la dueña cuáles quedaron analizadas.
+6. **Entregar** como tabla corta en el chat. Solo si la dueña lo pide, guardar en documento. Decirle a la dueña qué cuentas quedaron analizadas, para sumarlas a `referencia/referentes.md` (lista de cuentas ya revisadas: consultarla antes de analizar para no repetir).
 
 ## Reglas
 - Ser honesto con los límites: Claude no ve métricas privadas de otras cuentas, no puede abrir Instagram desde aquí y un reel viral de otro nicho no garantiza resultado en Inizitech.
 - No inflar la lista para parecer productivo. Si el material no da para 5 ideas buenas, entregar menos.
-- Variedad: no repetir el mismo formato más de 2 veces seguidas en la tanda (ver `inizitech-video-studio/referencia/variedad_formatos.md`).
+- Variedad: no repetir el mismo formato más de 2 veces seguidas en la tanda (rotar muñequito, texto animado, comparación, grabación de pantalla, la dueña a cámara).
 - Lo que ya se descartó (no volver a proponer): Trial Reels como sistema, PDFs gratis o lead magnets (Inizitech vende productos, no guías), carpetas de más.
