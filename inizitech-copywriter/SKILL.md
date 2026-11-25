@@ -19,13 +19,13 @@ Escribe el texto de cada video y carrusel de Inizitech: gancho, guion, cierre, e
 ## Formato de un guion (el mismo del documento de guiones)
 ```
 N. Título (animado, si aplica)
-Gancho: "..."  
-Guion: "..."  
-Cierre: "..."  
+Gancho: "..."
+Guion: "..."
+Cierre: "..."
 En pantalla: ...
 ```
 - 25 a 30 s hablando (unas 60 a 80 palabras). Frases de máximo ~12 palabras, escritas para el oído.
-- El gancho dice algo concreto en los primeros 2 segundos y va hablado y en texto en pantalla. Tipos que funcionan: pregunta que duele ("¿Tu celular carga lento? Casi siempre es esto."), error común ("El error que cometes al comprar un cargador."), número y promesa ("3 cosas que debes mirar antes de comprar audífonos."), prueba social ("Más de 150 clientes ya compraron aquí."), detrás de cámaras ("Así preparo tu pedido."), comparación ("Reloj mini vs Pro Max: ¿cuál te conviene?") y oferta con fecha real ("Hasta el [día] puedes pedir y recibir antes de Navidad."). Un gancho por video; sin prometer lo que no se puede probar. Banco completo en `referencia/ganchos.md` del repositorio.
+- El gancho dice algo concreto en los primeros 2 segundos y va hablado y en texto en pantalla. Tipos que funcionan: pregunta que duele ("¿Tu celular carga lento? Casi siempre es esto."), error común ("El error que cometes al comprar un cargador."), número y promesa ("3 cosas que debes mirar antes de comprar audífonos."), prueba social ("Más de 150 clientes ya compraron aquí."), detrás de cámaras ("Así preparo tu pedido."), comparación ("Reloj mini vs Pro Max: ¿cuál te conviene?") y oferta con fecha real ("Hasta el [día] puedes pedir y recibir antes de Navidad."). Un gancho por video; sin prometer lo que no se puede probar. Banco completo en `referencia/ganchos.md`.
 - Una sola idea por video. Un cierre con una acción única.
 - CTA: palabra clave por mensaje directo ("Escríbeme 'cuotas'", "Escríbeme 'IA'"), porque la dueña responde personalmente. No pedir comentarios que ella no vaya a contestar.
 - "En pantalla": qué fotos, clips o pantallazos necesita la edición, y que sean cosas que la dueña tenga o pueda conseguir.
