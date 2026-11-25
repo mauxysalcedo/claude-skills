@@ -9,3 +9,5 @@ Colección de skills para Claude. Cada carpeta es una skill con su archivo `SKIL
 - [`inizitech-content-manager`](inizitech-content-manager/SKILL.md): gerente de contenido: mezcla de videos y carruseles, pilares, calendario día por día, días de reserva, ganchos, anuncios con presupuesto pequeño, métricas semanales, flujo de producción por chat y variedad de formatos.
 - [`inizitech-ideas`](inizitech-ideas/SKILL.md): generador de ideas: analiza las cuentas de referencia que elige la dueña y las convierte en ideas de video o carrusel para Inizitech, con filtro de marca.
 - [`inizitech-copywriter`](inizitech-copywriter/SKILL.md): copywriter: ganchos, guiones de 25-30 s, descripciones y CTAs, y adaptación de la estructura de un video viral a Inizitech.
+- [`inizitech-editor-reels`](inizitech-editor-reels/SKILL.md): edita los clips grabados por la dueña en reels verticales de Inizitech: subtítulos, stickers, fotos, grabaciones de pantalla, sonidos y cierre de marca.
+- [`agente-ventas-inizitech`](agente-ventas-inizitech/SKILL.md): diseño, construcción y mejora del agente de IA de ventas de Inizitech (WhatsApp e Instagram con Supabase y n8n).
